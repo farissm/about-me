@@ -6,4 +6,8 @@ Hello world, my name is Faris and i'm proud to be myself.
 
 ## Motivasi
 
-Bismillah
+To become a ... 
+
+## life quote
+
+Enjoy the path 
