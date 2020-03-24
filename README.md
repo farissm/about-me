@@ -1,9 +1,9 @@
-## Faris Muhammad
+# Faris Muhammad
 
-# Biodata
+## Biodata
 
-Hello world, my name is Faris and i'm proud to be myself. my
+Hello world, my name is Faris and i'm proud to be myself.
 
-# Motivasi
+## Motivasi
 
-khabscibasickancansc
+Bismillah
