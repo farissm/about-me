@@ -1,2 +1,9 @@
-Nama: Faris Muhammad
-Motivasi: mendirikan startup
+##Faris Muhammad
+
+#Biodata
+
+Hello world, my name is Faris and i'm proud to be myself. my
+
+#motivasi
+
+khabscibasickancansc
