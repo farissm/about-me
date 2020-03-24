@@ -4,7 +4,7 @@
 
 Hello world, my name is Faris and i'm proud to be myself.
 
-## Motivasi
+## Motivation
 
 To become a ... 
 
