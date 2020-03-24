@@ -2,7 +2,7 @@
 
 ## Biodata
 
-Hello world, I'm Faris and I'm proud to be myself.
+Hello world, I'm Faris Muhammad and I'm proud to be myself.
 
 ## Motivation
 
