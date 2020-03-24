@@ -8,6 +8,6 @@ Hello world, my name is Faris and i'm proud to be myself.
 
 To become a ... 
 
-## life quote
+## Life Quote
 
 Enjoy the path 
