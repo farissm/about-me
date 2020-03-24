@@ -6,8 +6,8 @@ Hello world, I'm Faris Muhammad and I'm proud to be myself.
 
 ## Motivation
 
-To help people solving their problems especially from the technology side 
+To help people solving their problems especially from the technology side. 
 
 ## Life Quote
 
-Enjoy the path 
+Enjoy the path. 
