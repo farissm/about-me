@@ -2,11 +2,11 @@
 
 ## Biodata
 
-Hello world, my name is Faris and i'm proud to be myself.
+Hello world, I'm Faris and I'm proud to be myself.
 
 ## Motivation
 
-To become a ... 
+To help people solving their problems especially from the technology side 
 
 ## Life Quote
 
